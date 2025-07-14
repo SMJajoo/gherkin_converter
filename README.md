@@ -18,7 +18,7 @@ This Streamlit app converts free-form vehicle testing scenarios into structured 
 ## 📁 File Structure
 
 ```
-├── vehicle_gherkin_app.py         # Main application code
+├── app.py         # Main application code
 ├── gherkin_templates.txt          # Contains Gherkin syntax templates
 ├── requirements.txt (optional)   # Python dependencies
 ```
@@ -46,7 +46,7 @@ set GOOGLE_API_KEY=your_api_key_here     # Windows
 ### 3. **Run the App**
 
 ```bash
-streamlit run vehicle_gherkin_app.py
+streamlit run app.py
 ```
 
 ---
