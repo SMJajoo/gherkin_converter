@@ -1,0 +1,30 @@
+Given the vehicle is in <vehicle_state>
+Given the <signal_name> is initialized to <signal_value>
+Given the system has received <signal_name> with value <signal_value>
+Given the <signal_name> is within the range <min_value> to <max_value>
+Given the <signal_name> is <operator> <signal_value>
+Given the vehicle speed is <operator> <speed_value> km/h
+Given the <feature_name> feature is <enabled_or_disabled>
+Given the driver is <driver_state>
+Given the environment condition is <weather_condition>
+Given the <sensor_name> sensor is reporting <signal_value>
+When the <signal_name> changes to <signal_value>
+When the driver performs <driver_action>
+When the vehicle detects <object_type> at <distance> meters
+When the <feature_name> is activated
+When the <signal_name> exceeds <threshold_value>
+When the <sensor_name> reports <signal_value>
+When the system receives a command to <command_action>
+When the <signal_name> remains <operator> <signal_value> for <duration> seconds
+When the vehicle enters <road_condition>
+When the <signal_name> fluctuates between <min_value> and <max_value>
+Then the system shall trigger <alert_type> alert
+Then the <feature_name> shall be <activated_or_deactivated>
+Then the <signal_name> shall be set to <signal_value>
+Then the vehicle shall perform <vehicle_action>
+Then the driver shall be notified with <notification_type>
+Then the <signal_name> shall remain <operator> <signal_value> for <duration> seconds
+Then the system shall log <event_type> event
+Then the <feature_name> shall respond within <response_time> milliseconds
+Then the vehicle shall maintain a distance of <distance> meters
+Then the <signal_name> shall return to <normal_value>
