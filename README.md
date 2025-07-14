@@ -15,6 +15,9 @@ This Streamlit app converts free-form vehicle testing scenarios into structured 
 
 ---
 
+<img width="932" height="877" alt="image" src="https://github.com/user-attachments/assets/9c1297b2-d060-4afc-94b4-4d2347724110" />
+
+
 ## 📁 File Structure
 
 ```
